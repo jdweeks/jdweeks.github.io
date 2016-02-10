@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JD Weeks</title>
+    <description>A developer in Greenville, SC.</description>
+    <link>http://jdweeks.github.io/</link>
+    <atom:link href="http://jdweeks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 17:39:45 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 17:39:45 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Resume</title>
+        <description>&lt;h1 id=&quot;experience&quot;&gt;EXPERIENCE&lt;/h1&gt;
+
+&lt;h2 id=&quot;sealed-air-corporation-charlotte-nc&quot;&gt;Sealed Air Corporation, Charlotte, NC&lt;/h2&gt;
+
+&lt;h4 id=&quot;information-systems-intern-may-2015--aug-2015&quot;&gt;Information Systems Intern, May 2015 – Aug 2015&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Represented IS as the main point of contact within a cross-functional team&lt;/li&gt;
+  &lt;li&gt;Analyzed software requirements and assessed system capabilities&lt;/li&gt;
+  &lt;li&gt;Built mockups to prototype potential new applications&lt;/li&gt;
+  &lt;li&gt;Coordinated and led software training for new users&lt;/li&gt;
+  &lt;li&gt;Wrote shell scripts to migrate and clean data on system’s servers&lt;/li&gt;
+  &lt;li&gt;Developed a cross-platform mobile application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clemson-computing-and-information-technology-clemson-sc&quot;&gt;Clemson Computing and Information Technology, Clemson, SC&lt;/h2&gt;
+
+&lt;h4 id=&quot;intern-aug-2014--dec-2014&quot;&gt;Intern, Aug 2014 – Dec 2014&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Collaborated to build web and mobile applications&lt;/li&gt;
+  &lt;li&gt;Participated in agile development methodologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;academic-success-center-clemson-university-clemson-sc&quot;&gt;Academic Success Center (Clemson University), Clemson, SC&lt;/h2&gt;
+
+&lt;h4 id=&quot;supplemental-instruction-leader-aug-2013--may-2014&quot;&gt;Supplemental Instruction Leader, Aug 2013 – May 2014&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Planned and led collaborative activities&lt;/li&gt;
+  &lt;li&gt;Supplemented lectures in multivariable calculus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
+
+&lt;h2 id=&quot;clemson-university-clemson-sc&quot;&gt;Clemson University, Clemson, SC&lt;/h2&gt;
+
+&lt;h4 id=&quot;bs-mathematical-sciences-computer-science-minor-may-2016-expected&quot;&gt;B.S. Mathematical Sciences (Computer Science Minor), May 2016 Expected&lt;/h4&gt;
+
+&lt;h2 id=&quot;organizations&quot;&gt;Organizations:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Society for Industrial and Applied Mathematics&lt;/li&gt;
+  &lt;li&gt;Wall Street South Investment Club&lt;/li&gt;
+  &lt;li&gt;Tigers for Tigers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;skills-frameworks--languages&quot;&gt;SKILLS, FRAMEWORKS, &amp;amp; LANGUAGES&lt;/h1&gt;
+
+&lt;h3 id=&quot;programming&quot;&gt;Programming&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;C&lt;/li&gt;
+  &lt;li&gt;C++&lt;/li&gt;
+  &lt;li&gt;Java&lt;/li&gt;
+  &lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;application-development&quot;&gt;Application Development&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open Source&lt;/li&gt;
+  &lt;li&gt;Agile Methodologies&lt;/li&gt;
+  &lt;li&gt;MVC Architecture&lt;/li&gt;
+  &lt;li&gt;Iterative Refinement&lt;/li&gt;
+  &lt;li&gt;Usability Engineering&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web-development&quot;&gt;Web Development&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;CSS3&lt;/li&gt;
+  &lt;li&gt;Sass&lt;/li&gt;
+  &lt;li&gt;Bootstrap&lt;/li&gt;
+  &lt;li&gt;Node.js&lt;/li&gt;
+  &lt;li&gt;AngularJS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;scientific-computing&quot;&gt;Scientific Computing&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Parallel Algorithms&lt;/li&gt;
+  &lt;li&gt;Computational Math&lt;/li&gt;
+  &lt;li&gt;General Purpose Computation on GPUs&lt;/li&gt;
+  &lt;li&gt;OpenCL&lt;/li&gt;
+  &lt;li&gt;OpenGL&lt;/li&gt;
+  &lt;li&gt;Matlab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-skills&quot;&gt;Additional Skills&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Web Services&lt;/li&gt;
+  &lt;li&gt;REST&lt;/li&gt;
+  &lt;li&gt;Shell Scripting&lt;/li&gt;
+  &lt;li&gt;Bash&lt;/li&gt;
+  &lt;li&gt;Command-Line&lt;/li&gt;
+  &lt;li&gt;Linux&lt;/li&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 11:18:00 -0500</pubDate>
+        <link>http://jdweeks.github.io/resume.html</link>
+        <guid isPermaLink="true">http://jdweeks.github.io/resume.html</guid>
+        
+        <category>resume</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
