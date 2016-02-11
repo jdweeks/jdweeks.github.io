@@ -4,7 +4,7 @@
  <title>JD Weeks</title>
  <link href="http://jdweeks.github.io/atom.xml" rel="self"/>
  <link href="http://jdweeks.github.io/"/>
- <updated>2016-02-10T17:58:17-05:00</updated>
+ <updated>2016-02-11T13:47:59-05:00</updated>
  <id>http://jdweeks.github.io</id>
  <author>
    <name>JD Weeks</name>
@@ -64,26 +64,22 @@
 
 &lt;h3 id=&quot;programming&quot;&gt;Programming&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;C&lt;/li&gt;
-  &lt;li&gt;C++&lt;/li&gt;
+  &lt;li&gt;C / C++&lt;/li&gt;
   &lt;li&gt;Java&lt;/li&gt;
   &lt;li&gt;JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;application-development&quot;&gt;Application Development&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Open Source&lt;/li&gt;
-  &lt;li&gt;Agile Methodologies&lt;/li&gt;
-  &lt;li&gt;MVC Architecture&lt;/li&gt;
-  &lt;li&gt;Iterative Refinement&lt;/li&gt;
+  &lt;li&gt;Agile / Scrum&lt;/li&gt;
   &lt;li&gt;Usability Engineering&lt;/li&gt;
+  &lt;li&gt;Iterative Design&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;web-development&quot;&gt;Web Development&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;HTML5&lt;/li&gt;
-  &lt;li&gt;CSS3&lt;/li&gt;
-  &lt;li&gt;Sass&lt;/li&gt;
+  &lt;li&gt;CSS / Sass&lt;/li&gt;
   &lt;li&gt;Bootstrap&lt;/li&gt;
   &lt;li&gt;Node.js&lt;/li&gt;
   &lt;li&gt;AngularJS&lt;/li&gt;
@@ -94,18 +90,15 @@
   &lt;li&gt;Parallel Algorithms&lt;/li&gt;
   &lt;li&gt;Computational Math&lt;/li&gt;
   &lt;li&gt;General Purpose Computation on GPUs&lt;/li&gt;
-  &lt;li&gt;OpenCL&lt;/li&gt;
-  &lt;li&gt;OpenGL&lt;/li&gt;
+  &lt;li&gt;OpenCL, OpenGL&lt;/li&gt;
   &lt;li&gt;Matlab&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;additional-skills&quot;&gt;Additional Skills&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Web Services&lt;/li&gt;
-  &lt;li&gt;REST&lt;/li&gt;
-  &lt;li&gt;Shell Scripting&lt;/li&gt;
-  &lt;li&gt;Bash&lt;/li&gt;
-  &lt;li&gt;Command-Line&lt;/li&gt;
+  &lt;li&gt;Open Source&lt;/li&gt;
+  &lt;li&gt;Web Services / REST&lt;/li&gt;
+  &lt;li&gt;Shell Scripting / Bash&lt;/li&gt;
   &lt;li&gt;Linux&lt;/li&gt;
   &lt;li&gt;Git&lt;/li&gt;
 &lt;/ul&gt;
