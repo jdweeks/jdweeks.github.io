@@ -6125,9 +6125,18 @@ aside {
 
 .site-footer {
   margin-top: 200px;
+  padding-top: 5px;
   background: #373773;
-  color: white;
-  text-align: center; }
+  text-align: right;
+  color: white; }
+
+.footer-link {
+  color: white !important; }
+
+#scotch {
+  text-align: left; }
+  #scotch > p > a {
+    text-decoration: underline !important; }
 
 .topper {
   height: 500px;
