@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>JD Weeks</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2016-02-22T17:55:02-05:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://jdweeks.github.io/atom.xml" rel="self"/>
+ <link href="http://jdweeks.github.io/"/>
+ <updated>2016-02-22T17:56:30-05:00</updated>
+ <id>http://jdweeks.github.io</id>
  <author>
    <name>JD Weeks</name>
    <email>jdweeks@g.clemson.edu</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Resume</title>
-   <link href="http://localhost:4000/resume.html"/>
+   <link href="http://jdweeks.github.io/resume.html"/>
    <updated>2016-02-10T11:18:00-05:00</updated>
-   <id>http://localhost:4000/resume</id>
+   <id>http://jdweeks.github.io/resume</id>
    <content type="html">&lt;h1 id=&quot;experience&quot;&gt;EXPERIENCE&lt;/h1&gt;
 
 &lt;h2 id=&quot;unitedhealth-group-optum-greenville-sc&quot;&gt;UnitedHealth Group (Optum), Greenville, SC&lt;/h2&gt;
