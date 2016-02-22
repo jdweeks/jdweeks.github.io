@@ -3,15 +3,19 @@
   <channel>
     <title>JD Weeks</title>
     <description>A developer in Greenville, SC.</description>
-    <link>http://jdweeks.github.io/</link>
-    <atom:link href="http://jdweeks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 14:25:15 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 14:25:15 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Feb 2016 17:55:02 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 17:55:02 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Resume</title>
         <description>&lt;h1 id=&quot;experience&quot;&gt;EXPERIENCE&lt;/h1&gt;
+
+&lt;h2 id=&quot;unitedhealth-group-optum-greenville-sc&quot;&gt;UnitedHealth Group (Optum), Greenville, SC&lt;/h2&gt;
+
+&lt;h4 id=&quot;technology-development-program-associate-starting-june-2016&quot;&gt;Technology Development Program Associate, Starting June 2016&lt;/h4&gt;
 
 &lt;h2 id=&quot;sealed-air-corporation-charlotte-nc&quot;&gt;Sealed Air Corporation, Charlotte, NC&lt;/h2&gt;
 
@@ -29,16 +33,7 @@
 
 &lt;h4 id=&quot;intern-aug-2014--dec-2014&quot;&gt;Intern, Aug 2014 – Dec 2014&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;Collaborated to build web and mobile applications&lt;/li&gt;
-  &lt;li&gt;Participated in agile development methodologies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;academic-success-center-clemson-university-clemson-sc&quot;&gt;Academic Success Center (Clemson University), Clemson, SC&lt;/h2&gt;
-
-&lt;h4 id=&quot;supplemental-instruction-leader-aug-2013--may-2014&quot;&gt;Supplemental Instruction Leader, Aug 2013 – May 2014&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Planned and led collaborative activities&lt;/li&gt;
-  &lt;li&gt;Supplemented lectures in multivariable calculus&lt;/li&gt;
+  &lt;li&gt;Developed web and mobile applications to serve Clemson students, faculty, and staff&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;education&quot;&gt;EDUCATION&lt;/h1&gt;
@@ -56,21 +51,22 @@
 
 &lt;h1 id=&quot;skills-frameworks--languages&quot;&gt;SKILLS, FRAMEWORKS, &amp;amp; LANGUAGES&lt;/h1&gt;
 
-&lt;h3 id=&quot;programming&quot;&gt;Programming&lt;/h3&gt;
+&lt;h2 id=&quot;programming&quot;&gt;Programming&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;C / C++&lt;/li&gt;
   &lt;li&gt;Java&lt;/li&gt;
   &lt;li&gt;JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;application-development&quot;&gt;Application Development&lt;/h3&gt;
+&lt;h2 id=&quot;application-development&quot;&gt;Application Development&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Agile / Scrum&lt;/li&gt;
   &lt;li&gt;Usability Engineering&lt;/li&gt;
-  &lt;li&gt;Iterative Design&lt;/li&gt;
+  &lt;li&gt;Iterative Development&lt;/li&gt;
+  &lt;li&gt;Participatory Design&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;web-development&quot;&gt;Web Development&lt;/h3&gt;
+&lt;h2 id=&quot;web-development&quot;&gt;Web Development&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;HTML5&lt;/li&gt;
   &lt;li&gt;CSS / Sass&lt;/li&gt;
@@ -79,7 +75,7 @@
   &lt;li&gt;AngularJS&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;scientific-computing&quot;&gt;Scientific Computing&lt;/h3&gt;
+&lt;h2 id=&quot;scientific-computing&quot;&gt;Scientific Computing&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Parallel Algorithms&lt;/li&gt;
   &lt;li&gt;Computational Math&lt;/li&gt;
@@ -88,7 +84,7 @@
   &lt;li&gt;Matlab&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;additional-skills&quot;&gt;Additional Skills&lt;/h3&gt;
+&lt;h2 id=&quot;additional-skills&quot;&gt;Additional Skills&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Open Source&lt;/li&gt;
   &lt;li&gt;Web Services / REST&lt;/li&gt;
@@ -98,8 +94,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 Feb 2016 11:18:00 -0500</pubDate>
-        <link>http://jdweeks.github.io/resume.html</link>
-        <guid isPermaLink="true">http://jdweeks.github.io/resume.html</guid>
+        <link>http://localhost:4000/resume.html</link>
+        <guid isPermaLink="true">http://localhost:4000/resume.html</guid>
         
         <category>resume</category>
         
