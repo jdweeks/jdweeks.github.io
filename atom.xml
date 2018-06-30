@@ -4,7 +4,7 @@
  <title>JD Weeks</title>
  <link href="http://jdweeks.github.io/atom.xml" rel="self"/>
  <link href="http://jdweeks.github.io/"/>
- <updated>2016-05-07T20:02:08-04:00</updated>
+ <updated>2018-06-30T14:51:55-04:00</updated>
  <id>http://jdweeks.github.io</id>
  <author>
    <name>JD Weeks</name>
@@ -15,13 +15,37 @@
  <entry>
    <title>Resume</title>
    <link href="http://jdweeks.github.io/resume.html"/>
-   <updated>2016-02-10T11:18:00-05:00</updated>
+   <updated>2018-06-30T12:18:00-04:00</updated>
    <id>http://jdweeks.github.io/resume</id>
    <content type="html">&lt;h1 id=&quot;experience&quot;&gt;EXPERIENCE&lt;/h1&gt;
 
 &lt;h2 id=&quot;unitedhealth-group-optum-greenville-sc&quot;&gt;UnitedHealth Group (Optum), Greenville, SC&lt;/h2&gt;
 
-&lt;h4 id=&quot;technology-development-program-associate-starting-june-2016&quot;&gt;Technology Development Program Associate, Starting June 2016&lt;/h4&gt;
+&lt;h4 id=&quot;senior-application-developer-june-2017---present&quot;&gt;Senior Application Developer, June 2017 - present&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Creating inner source / open source tooling for API virtualization&lt;/li&gt;
+  &lt;li&gt;Modernizing / maintaining legacy applications&lt;/li&gt;
+  &lt;li&gt;Coordinating code reviews&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unitedhealth-group-optum-greenville-sc-1&quot;&gt;UnitedHealth Group (Optum), Greenville, SC&lt;/h2&gt;
+
+&lt;h4 id=&quot;application-developer-june-2016---june-2017&quot;&gt;Application Developer, June 2016 - June 2017&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Participated in Technology Development Program&lt;/li&gt;
+  &lt;li&gt;1st six month rotation:
+    &lt;ul&gt;
+      &lt;li&gt;Software developer supporting service virtualization efforts&lt;/li&gt;
+      &lt;li&gt;Developed enterprise webapps using Java and JavaScript&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2nd six month rotation:
+    &lt;ul&gt;
+      &lt;li&gt;Continuous delivery engineer supporting enterprise wide CI/CD&lt;/li&gt;
+      &lt;li&gt;Developed automation for XL Release, XL Deploy, AWS using Python, Docker, and Jenkins&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;sealed-air-corporation-charlotte-nc&quot;&gt;Sealed Air Corporation, Charlotte, NC&lt;/h2&gt;
 
@@ -59,26 +83,25 @@
 
 &lt;h2 id=&quot;programming&quot;&gt;Programming&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;C / C++&lt;/li&gt;
   &lt;li&gt;Java&lt;/li&gt;
   &lt;li&gt;JavaScript&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;application-development&quot;&gt;Application Development&lt;/h2&gt;
+&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
 &lt;ul&gt;
+  &lt;li&gt;Node.js / Express&lt;/li&gt;
+  &lt;li&gt;AngularJS&lt;/li&gt;
+  &lt;li&gt;React&lt;/li&gt;
+  &lt;li&gt;Spring&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development-methodologies&quot;&gt;Development Methodologies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;DevOps&lt;/li&gt;
   &lt;li&gt;Agile / Scrum&lt;/li&gt;
   &lt;li&gt;Usability Engineering&lt;/li&gt;
-  &lt;li&gt;Iterative Development&lt;/li&gt;
   &lt;li&gt;Participatory Design&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;web-development&quot;&gt;Web Development&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;HTML5&lt;/li&gt;
-  &lt;li&gt;CSS / Sass&lt;/li&gt;
-  &lt;li&gt;Bootstrap&lt;/li&gt;
-  &lt;li&gt;Node.js&lt;/li&gt;
-  &lt;li&gt;AngularJS&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;scientific-computing&quot;&gt;Scientific Computing&lt;/h2&gt;
@@ -92,10 +115,13 @@
 
 &lt;h2 id=&quot;additional-skills&quot;&gt;Additional Skills&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Open Source&lt;/li&gt;
-  &lt;li&gt;Web Services / REST&lt;/li&gt;
+  &lt;li&gt;Open Source / Inner Source&lt;/li&gt;
+  &lt;li&gt;Web Services / REST APIs&lt;/li&gt;
   &lt;li&gt;Shell Scripting / Bash&lt;/li&gt;
+  &lt;li&gt;NoSQL / MongoDB&lt;/li&gt;
   &lt;li&gt;Linux&lt;/li&gt;
+  &lt;li&gt;Docker&lt;/li&gt;
+  &lt;li&gt;Jenkins&lt;/li&gt;
   &lt;li&gt;Git&lt;/li&gt;
 &lt;/ul&gt;
 </content>
